@@ -17,7 +17,7 @@ fetch("https://randomuser.me/api/")
 <h6>Async/Awit Code</h6>
 
 ```Javascripts
-//-------------------------
+//------ Pembuatan ----------
 ```
 
 <hr>
